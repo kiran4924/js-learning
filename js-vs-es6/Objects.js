@@ -2,14 +2,14 @@
 
 // JS
 
-var user = {
+var user1 = {
     name: "Kiran",
     age: 36
 }
 
-var myName = user.name;
+var myName = user1.name;
 
-console.log(myName, user.age);
+console.log(myName, user1.age);
 
 
 // ES6
